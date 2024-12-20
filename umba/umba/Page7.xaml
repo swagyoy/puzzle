@@ -1,0 +1,34 @@
+﻿<Page x:Class="umba.Page7"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:umba"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Puzzles: Evangelion">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,1" StartPoint="2,0" SpreadMethod="Repeat">
+                <LinearGradientBrush.Transform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-29"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.Transform>
+                <GradientStop Color="#FFB055CC" Offset="1"/>
+                <GradientStop Color="#FF9BD26F" Offset="0.025"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image Margin="577,138,50,120" MouseDown="Evang_Click" Source="eva1.jpg" Cursor="Hand"/>
+        <Image Margin="68,117,558,99" MouseDown="Eva01_Click" Source="eva2.jpg" Cursor="Hand"/>
+
+        <Label Content="выберете пазл" HorizontalAlignment="Center" Height="82" Margin="0,10,0,0" VerticalAlignment="Top" Width="362" FontSize="55" FontFamily="Sylfaen"/>
+        <Label Content="eva 01 (hard)" HorizontalAlignment="Left" Height="76" Margin="100,483,0,0" VerticalAlignment="Top" Width="210" FontSize="36" FontFamily="Sylfaen"/>
+        <Label Content="evangelion (hard)" HorizontalAlignment="Left" Height="76" Margin="576,483,0,0" VerticalAlignment="Top" Width="276" FontSize="36" FontFamily="Sylfaen"/>
+        <Button Content="назад" Click="BackEva_Click" Margin="394,483,394,10" FontFamily="Sylfaen" FontSize="24" Cursor="Hand"/>
+    </Grid>
+</Page>

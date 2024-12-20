@@ -1,0 +1,46 @@
+C:\Users\krapi\Desktop\umba\umba\bin\Debug\umba.exe.config
+C:\Users\krapi\Desktop\umba\umba\bin\Debug\umba.exe
+C:\Users\krapi\Desktop\umba\umba\bin\Debug\umba.pdb
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.csproj.AssemblyReference.cache
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\MainWindow.g.cs
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\App.g.cs
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba_MarkupCompile.cache
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba_MarkupCompile.lref
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\MainWindow.baml
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.g.resources
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.Properties.Resources.resources
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.csproj.GenerateResource.cache
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.csproj.CoreCompileInputs.cache
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.exe
+C:\Users\krapi\Desktop\umba\umba\obj\Debug\umba.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\bin\Debug\umba.exe.config
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\bin\Debug\umba.exe
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\bin\Debug\umba.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.csproj.AssemblyReference.cache
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\MainWindow.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page1.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\App.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba_MarkupCompile.cache
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba_MarkupCompile.lref
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\MainWindow.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page1.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.g.resources
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.Properties.Resources.resources
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.csproj.GenerateResource.cache
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.csproj.CoreCompileInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.exe
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\umba.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page2.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page3.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page2.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page3.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page4.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page4.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page5.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page5.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page6.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page7.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page8.g.cs
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page6.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page7.baml
+C:\Users\Nout\OneDrive\Рабочий стол\umba\umba\obj\Debug\Page8.baml

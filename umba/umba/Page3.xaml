@@ -1,0 +1,41 @@
+﻿<Page x:Class="umba.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:umba"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Jojo: Weather Report">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterX="0.5" CenterY="0.5"/>
+                        <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                        <RotateTransform Angle="-104.036" CenterX="0.5" CenterY="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FFECBCE8"/>
+                <GradientStop Color="#FFEFEF8A" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border BorderBrush="Black" BorderThickness="2" Width="405" Height="405" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="424,0,0,0">
+            <Canvas x:Name="PuzzleCanvas" Background="White" AllowDrop="True"/>
+        </Border>
+        <Image Margin="70,25,609,308" Source="/jojo21.jpg" RenderTransformOrigin="0.5,1">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="назад" x:Name="back" Margin="70,471,650,41" FontSize="36" FontFamily="Sylfaen" Click="back_Click" Cursor="Hand"/>
+    </Grid>
+</Page>

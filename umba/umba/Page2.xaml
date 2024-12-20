@@ -1,0 +1,19 @@
+﻿<Page x:Class="umba.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:umba"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Puzzles">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/reii.jpg" Stretch="UniformToFill" Opacity="0.6" />
+        </Grid.Background>
+        <Button Content="play" Click="ButtPlay_Click" Margin="264,268,264,189" FontSize="72" FontFamily="Sylfaen" Cursor="Hand"/>
+        <Button Content="exit" Click="ButtExit_Click" Margin="264,434,264,25" FontSize="72" FontFamily="Sylfaen" Cursor="Hand"/>
+        <Label Content="Tap to play! faster!!" FontFamily="Sylfaen" FontSize="72" Margin="150,63,150,381" Foreground="White"/>
+    </Grid>
+</Page>
